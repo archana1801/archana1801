@@ -108,7 +108,9 @@ Below is an interactive snake game that traverses my contribution grid in real t
 <br>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=archana1801&color=00f2fe&style=flat-square" alt="Profile Views Counter" />
+  <a href="https://github.com/archana1801/archana1801">
+    <img src="https://komarev.com/ghpvc/?username=archana1801&color=00f2fe&style=flat-square" alt="Profile Views Counter" />
+  </a>
 </p>
 
 ---
