@@ -70,7 +70,7 @@ Here are some of my top projects. Click the links to inspect their repositories:
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=archana1801&theme=tokyonight&border=00f2fe&background=0d1117&fire=ff007f&ring=00f2fe&currStreakLabel=00f2fe" alt="GitHub Streak Stats" width="97%" />
+  <img src="assets/streak.svg" alt="GitHub Streak Stats" width="97%" />
 </p>
 
 ---
