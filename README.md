@@ -6,6 +6,12 @@
   </a>
 </p>
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/archanakumari18" target="_blank">
+    <img src="https://img.shields.io/badge/Reach%20Out-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
 <img align="right" alt="Coding Girl Animation" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/85cb9521-97c0-4a65-9358-7db8099fac7f" width="380" style="max-width: 100%; height: auto; margin-left: 20px; border-radius: 10px;" />
 
 ### 🚀 About Me
@@ -102,7 +108,7 @@ Below is an interactive snake game that traverses my contribution grid in real t
 <br>
 
 <p align="center">
-  <img src="https://komarev.com/ghvc/?username=archana1801&color=00f2fe&style=flat-square" alt="Profile Views Counter" />
+  <img src="https://komarev.com/ghpvc/?username=archana1801&color=00f2fe&style=flat-square" alt="Profile Views Counter" />
 </p>
 
 ---
