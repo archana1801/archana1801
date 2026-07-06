@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Archana Kumari - Software Developer Banner" width="100%">
+  <img src="assets/banner_girl.png" alt="Archana Kumari - Software Developer Banner" width="100%">
 </p>
 
 <p align="center">
