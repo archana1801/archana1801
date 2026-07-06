@@ -1,0 +1,124 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Archana Kumari - Software Developer Banner" width="100%">
+</p>
+
+<p align="center">
+  <a href="https://github.com/archana1801">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&width=500&height=50&lines=Software+Developer;Java+Developer;Full+Stack+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
+  </a>
+</p>
+
+---
+
+# Hi 👋, I'm Archana Kumari
+
+Welcome to my digital space! I'm a software developer and Master of Computer Applications (MCA) student passionate about building performant web architectures and solving complex algorithmic challenges.
+
+---
+
+## 🚀 About Me
+
+- 🎓 **Education:** MCA Student @ **IGDTUW** (Indira Gandhi Delhi Technical University for Women)
+- 💻 **Tech Interests:** Full Stack Web Development, Distributed Systems, System Design
+- 🌱 **Current Focus:** Solving Data Structures & Algorithms (DSA) daily and learning system architectures
+- 🎯 **Career Goal:** Software Development Engineer (SDE) at a product-based technology company
+- 💬 **Ask me about:** Java, React, Node.js, and browser-synthesized audio loops!
+
+---
+
+## 🛠️ My Tech Stack
+
+### 💻 Languages & Frameworks
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,js,html,css,react,nextjs,nodejs,express,mongodb" alt="Tech Stack - Frameworks" />
+  </a>
+</p>
+
+### ⚙️ Tools, Platforms & DevOps
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,tailwind,vite" alt="Tech Stack - Tools" />
+  </a>
+</p>
+
+---
+
+## 💻 Featured Projects
+
+Here are some of my top projects. Click the links to inspect their repositories:
+
+| Project Name | Description | Tech Stack | Link |
+| :--- | :--- | :--- | :--- |
+| **🌐 My Portfolio** | Cybernetic HUD dashboard portfolio featuring real-time Web Audio API synthesizers. | `React` `Vite` `Vanilla CSS` | [Repository](https://github.com/archana1801/my-portfolio) / [Live Site](https://archana1801.github.io/my-portfolio/) |
+| **📦 EximHub** | Export-import management dashboard and documentation tracking system. | `Java` `Spring Boot` `React` | [Repository](https://github.com/archana1801/EximHub) |
+| **🍲 Food Recipe App** | Full stack recipe indexing, dietary filtering, and planning application. | `Node.js` `React` `MongoDB` | [Repository](https://github.com/archana1801/Food-Recipe-App) |
+| **📚 Java DSA** | A structured repository mapping out daily DSA problems and solution patterns. | `Java` | [Repository](https://github.com/archana1801/Java-DSA) |
+
+---
+
+## 🏆 Coding Profiles
+
+<!-- Note: If your username on any of these platforms is different from archana1801, update the links below -->
+<p align="left">
+  <a href="https://leetcode.com/u/archana1801/" target="_blank">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/archana1801/" target="_blank">
+    <img src="https://img.shields.io/badge/-GeeksforGeeks-298D46?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" alt="GeeksforGeeks" />
+  </a>
+  <a href="https://www.codechef.com/users/archana1801" target="_blank">
+    <img src="https://img.shields.io/badge/-CodeChef-5B4636?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Diagnostics & Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=archana1801&show_icons=true&theme=tokyonight&border_color=00f2fe&bg_color=0d1117&title_color=00f2fe&text_color=a9b1d6&icon_color=ff007f" alt="Archana's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=archana1801&layout=compact&theme=tokyonight&border_color=00f2fe&bg_color=0d1117&title_color=00f2fe&text_color=a9b1d6" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=archana1801&theme=tokyonight&border=00f2fe&background=0d1117&fire=ff007f&ring=00f2fe&currStreakLabel=00f2fe" alt="GitHub Streak Stats" width="97%" />
+</p>
+
+---
+
+## 🐍 Contribution Art
+
+Below is an interactive snake game that traverses my contribution grid in real time, auto-updated daily by GitHub Actions.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/archana1801/archana1801/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
+</p>
+
+---
+
+## 📬 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/archanakumari18" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:archanadubeyy18@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://archana1801.github.io/my-portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-00F2FE?style=for-the-badge&logo=react&logoColor=black" alt="Portfolio" />
+  </a>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://komarev.com/ghvc/?username=archana1801&color=00f2fe&style=flat-square" alt="Profile Views Counter" />
+</p>
+
+---
+
+<p align="center">
+  <i>"Attraversiamo" 💫</i>
+</p>
