@@ -53,16 +53,9 @@ Here are some of my top projects. Click the links to inspect their repositories:
 
 ## 🏆 Coding Profiles
 
-<!-- Note: If your username on any of these platforms is different from archana1801, update the links below -->
 <p align="left">
-  <a href="https://leetcode.com/u/archana1801/" target="_blank">
+  <a href="https://leetcode.com/u/archana_1801/" target="_blank">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
-  </a>
-  <a href="https://www.geeksforgeeks.org/user/archana1801/" target="_blank">
-    <img src="https://img.shields.io/badge/-GeeksforGeeks-298D46?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" alt="GeeksforGeeks" />
-  </a>
-  <a href="https://www.codechef.com/users/archana1801" target="_blank">
-    <img src="https://img.shields.io/badge/-CodeChef-5B4636?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef" />
   </a>
 </p>
 
