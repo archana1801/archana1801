@@ -1,28 +1,22 @@
-<p align="center">
-  <img src="assets/banner_girl.png" alt="Archana Kumari - Software Developer Banner" width="100%">
-</p>
+<h1 align="left">Hi 👋, I'm Archana Kumari</h1>
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/archana1801">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&width=500&height=50&lines=Software+Developer;Java+Developer;Full+Stack+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F2FE&center=false&vCenter=true&width=400&height=35&lines=Software+Developer;Java+Developer;Full+Stack+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
   </a>
 </p>
 
----
+<img align="right" alt="Coding Girl Animation" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/85cb9521-97c0-4a65-9358-7db8099fac7f" width="380" style="max-width: 100%; height: auto; margin-left: 20px; border-radius: 10px;" />
 
-# Hi 👋, I'm Archana Kumari
-
-Welcome to my digital space! I'm a software developer and Master of Computer Applications (MCA) student passionate about building performant web architectures and solving complex algorithmic challenges.
-
----
-
-## 🚀 About Me
+### 🚀 About Me
 
 - 🎓 **Education:** MCA Student @ **IGDTUW** (Indira Gandhi Delhi Technical University for Women)
 - 💻 **Tech Interests:** Full Stack Web Development, Distributed Systems, System Design
 - 🌱 **Current Focus:** Solving Data Structures & Algorithms (DSA) daily and learning system architectures
 - 🎯 **Career Goal:** Software Development Engineer (SDE) at a product-based technology company
 - 💬 **Ask me about:** Java, React, Node.js, and browser-synthesized audio loops!
+
+<br clear="right">
 
 ---
 
