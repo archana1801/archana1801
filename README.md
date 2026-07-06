@@ -68,28 +68,6 @@ Here are some of my top projects. Click the links to inspect their repositories:
 
 ---
 
-## 📊 GitHub Diagnostics & Stats
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=archana1801&show_icons=true&theme=tokyonight&border_color=00f2fe&bg_color=0d1117&title_color=00f2fe&text_color=a9b1d6&icon_color=ff007f" alt="Archana's GitHub Stats" width="48%" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=archana1801&layout=compact&theme=tokyonight&border_color=00f2fe&bg_color=0d1117&title_color=00f2fe&text_color=a9b1d6" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="assets/streak.svg" alt="GitHub Streak Stats" width="97%" />
-</p>
-
----
-
-## 🐍 Contribution Art
-
-Below is an interactive snake game that traverses my contribution grid in real time, auto-updated daily by GitHub Actions.
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/archana1801/archana1801/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
-</p>
-
----
 
 ## 📬 Connect with Me
 
