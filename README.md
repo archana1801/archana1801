@@ -11,10 +11,10 @@
 ### 🚀 About Me
 
 - 🎓 **Education:** MCA Student @ **IGDTUW** (Indira Gandhi Delhi Technical University for Women)
-- 💻 **Tech Interests:** Full Stack Web Development, Distributed Systems, System Design
-- 🌱 **Current Focus:** Solving Data Structures & Algorithms (DSA) daily and learning system architectures
-- 🎯 **Career Goal:** Software Development Engineer (SDE) at a product-based technology company
-- 💬 **Ask me about:** Java, React, Node.js, and browser-synthesized audio loops!
+- 💻 **Tech Interests:** Full Stack Web Development, Software Development, and building scalable systems
+- 🌱 **Current Focus:** Solving Data Structures & Algorithms (DSA) daily and learning system design
+- 🎯 **Career Goal:** Software Development Engineer (SDE) at a product-based company
+- 💬 **Ask me about:** Java, React, Node.js, and Full Stack development!
 
 <br clear="right">
 
@@ -25,14 +25,14 @@
 ### 💻 Languages & Frameworks
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,html,css,react,nextjs,nodejs,express,mongodb" alt="Tech Stack - Frameworks" />
+    <img src="https://skillicons.dev/icons?i=java,js,html,css,react,nodejs,express,mongodb" alt="Tech Stack - Frameworks" />
   </a>
 </p>
 
 ### ⚙️ Tools, Platforms & DevOps
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,tailwind,vite" alt="Tech Stack - Tools" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,vite" alt="Tech Stack - Tools" />
   </a>
 </p>
 
@@ -45,6 +45,7 @@ Here are some of my top projects. Click the links to inspect their repositories:
 | Project Name | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
 | **🌐 My Portfolio** | Cybernetic HUD dashboard portfolio featuring real-time Web Audio API synthesizers. | `React` `Vite` `Vanilla CSS` | [Repository](https://github.com/archana1801/my-portfolio) / [Live Site](https://archana1801.github.io/my-portfolio/) |
+| **🧸 Namaste Overseas** | A premium, highly interactive web application built for a custom plush toy manufacturer. | `React` `Vite` `JavaScript` `CSS` | [Repository](https://github.com/archana1801/plush_toy_website) |
 | **📦 EximHub** | Export-import management dashboard and documentation tracking system. | `Java` `Spring Boot` `React` | [Repository](https://github.com/archana1801/EximHub) |
 | **🍲 Food Recipe App** | Full stack recipe indexing, dietary filtering, and planning application. | `Node.js` `React` `MongoDB` | [Repository](https://github.com/archana1801/Food-Recipe-App) |
 | **📚 Java DSA** | A structured repository mapping out daily DSA problems and solution patterns. | `Java` | [Repository](https://github.com/archana1801/Java-DSA) |
@@ -64,12 +65,12 @@ Here are some of my top projects. Click the links to inspect their repositories:
 ## 📊 GitHub Diagnostics & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=archana1801&show_icons=true&theme=tokyonight&border_color=00f2fe&bg_color=0d1117&title_color=00f2fe&text_color=a9b1d6&icon_color=ff007f" alt="Archana's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=archana1801&layout=compact&theme=tokyonight&border_color=00f2fe&bg_color=0d1117&title_color=00f2fe&text_color=a9b1d6" alt="Top Languages" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=archana1801&show_icons=true&theme=tokyonight&border_color=00f2fe&bg_color=0d1117&title_color=00f2fe&text_color=a9b1d6&icon_color=ff007f" alt="Archana's GitHub Stats" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=archana1801&layout=compact&theme=tokyonight&border_color=00f2fe&bg_color=0d1117&title_color=00f2fe&text_color=a9b1d6" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=archana1801&theme=tokyonight&border=00f2fe&background=0d1117&fire=ff007f&ring=00f2fe&currStreakLabel=00f2fe" alt="GitHub Streak Stats" width="97%" />
+  <img src="https://streak-stats.demolab.com/?user=archana1801&theme=tokyonight&border=00f2fe&background=0d1117&fire=ff007f&ring=00f2fe&currStreakLabel=00f2fe" alt="GitHub Streak Stats" width="97%" />
 </p>
 
 ---
