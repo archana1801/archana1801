@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Archana Kumari</h1>
+<h1 align="left">Hi, I'm Archana Kumari</h1>
 
 <p align="left">
   <a href="https://github.com/archana1801">
@@ -14,28 +14,28 @@
 
 <img align="right" alt="Coding Girl Animation" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/85cb9521-97c0-4a65-9358-7db8099fac7f" width="380" style="max-width: 100%; height: auto; margin-left: 20px; border-radius: 10px;" />
 
-### 🚀 About Me
+### About Me
 
-- 🎓 **Education:** MCA Student @ **IGDTUW** (Indira Gandhi Delhi Technical University for Women)
-- 💻 **Tech Interests:** Full Stack Web Development, Software Development, and building scalable systems
-- 🌱 **Current Focus:** Solving Data Structures & Algorithms (DSA) daily and learning system design
-- 🎯 **Career Goal:** Software Development Engineer (SDE) at a product-based company
-- 💬 **Ask me about:** Java, React, Node.js, and Full Stack development!
+- **Education:** MCA Student @ **IGDTUW** (Indira Gandhi Delhi Technical University for Women)
+- **Tech Interests:** Full Stack Web Development, Software Development, and building scalable systems
+- **Current Focus:** Solving Data Structures & Algorithms (DSA) daily and learning system design
+- **Career Goal:** Software Development Engineer (SDE) at a product-based company
+- **Ask me about:** Java, React, Node.js, and Full Stack development!
 
 <br clear="right">
 
 ---
 
-## 🛠️ My Tech Stack
+## My Tech Stack
 
-### 💻 Languages & Frameworks
+### Languages & Frameworks
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,js,html,css,react,nodejs,express,mongodb" alt="Tech Stack - Frameworks" />
   </a>
 </p>
 
-### ⚙️ Tools, Platforms & DevOps
+### Tools, Platforms & DevOps
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,vscode,vite" alt="Tech Stack - Tools" />
@@ -44,32 +44,22 @@
 
 ---
 
-## 💻 Featured Projects
+## Featured Projects
 
 Here are some of my top projects. Click the links to inspect their repositories:
 
 | Project Name | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
-| **🌐 My Portfolio** | Cybernetic HUD dashboard portfolio featuring real-time Web Audio API synthesizers. | `React` `Vite` `Vanilla CSS` | [Repository](https://github.com/archana1801/my-portfolio) / [Live Site](https://archana1801.github.io/my-portfolio/) |
-| **🧸 Namaste Overseas** | A premium, highly interactive web application built for a custom plush toy manufacturer. | `React` `Vite` `JavaScript` `CSS` | [Repository](https://github.com/archana1801/plush_toy_website) |
-| **📦 EximHub** | Export-import management dashboard and documentation tracking system. | `Java` `Spring Boot` `React` | [Repository](https://github.com/archana1801/EximHub) |
-| **🍲 Food Recipe App** | Full stack recipe indexing, dietary filtering, and planning application. | `Node.js` `React` `MongoDB` | [Repository](https://github.com/archana1801/Food-Recipe-App) |
-| **📚 Java DSA** | A structured repository mapping out daily DSA problems and solution patterns. | `Java` | [Repository](https://github.com/archana1801/Java-DSA) |
-
----
-
-## 🏆 Coding Profiles
-
-<p align="left">
-  <a href="https://leetcode.com/u/archana_1801/" target="_blank">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
-  </a>
-</p>
+| **My Portfolio** | Cybernetic HUD dashboard portfolio featuring real-time Web Audio API synthesizers. | `React` `Vite` `Vanilla CSS` | [Repository](https://github.com/archana1801/my-portfolio) / [Live Site](https://archana1801.github.io/my-portfolio/) |
+| **Namaste Overseas** | A premium, highly interactive web application built for a custom plush toy manufacturer. | `React` `Vite` `JavaScript` `CSS` | [Repository](https://github.com/archana1801/plush_toy_website) |
+| **EximHub** | Export-import management dashboard and documentation tracking system. | `Java` `Spring Boot` `React` | [Repository](https://github.com/archana1801/EximHub) |
+| **Food Recipe App** | Full stack recipe indexing, dietary filtering, and planning application. | `Node.js` `React` `MongoDB` | [Repository](https://github.com/archana1801/Food-Recipe-App) |
+| **Java DSA** | A structured repository mapping out daily DSA problems and solution patterns. | `Java` | [Repository](https://github.com/archana1801/Java-DSA) |
 
 ---
 
 
-## 📬 Connect with Me
+## Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/archanakumari18" target="_blank">
@@ -94,5 +84,5 @@ Here are some of my top projects. Click the links to inspect their repositories:
 ---
 
 <p align="center">
-  <i>"Attraversiamo" 💫</i>
+  <i>"Attraversiamo"</i>
 </p>
