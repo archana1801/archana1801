@@ -18,9 +18,8 @@
 
 - **Education:** MCA Student @ **IGDTUW** (Indira Gandhi Delhi Technical University for Women)
 - **Tech Interests:** Full Stack Web Development, Software Development, and building scalable systems
-- **Current Focus:** Solving Data Structures & Algorithms (DSA) daily and learning system design
-- **Career Goal:** Software Development Engineer (SDE) at a product-based company
-- **Ask me about:** Java, React, Node.js, and Full Stack development!
+- **Current Focus:** Solving Data Structures & Algorithms (DSA) daily, Spring Boot, Kafka, and System Design
+- **Ask me about:** Java, React, Node.js, Spring Boot, Kafka, PostgreSQL, and Full Stack development!
 
 <br clear="right">
 
