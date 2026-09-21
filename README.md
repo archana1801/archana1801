@@ -50,10 +50,10 @@ Here are some of my top projects. Click the links to inspect their repositories:
 
 | Project Name | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
-| **My Portfolio** | Cybernetic HUD dashboard portfolio featuring real-time Web Audio API synthesizers. | `React` `Vite` `Vanilla CSS` | [Repository](https://github.com/archana1801/my-portfolio) / [Live Site](https://archana1801.github.io/my-portfolio/) |
+| **AI-Powered Interview Preparation Platform** | Full-stack AI interview platform featuring resume PDF parsing, JWT authentication, and Google Gemini API interview reports. | `React.js` `Node.js` `Express` `MongoDB` `JWT` `Gemini API` | [Repository](https://github.com/archana1801) |
+| **My Portfolio** | Interactive HUD portfolio website built with React, Vite, and custom CSS. | `React` `Vite` `Vanilla CSS` | [Repository](https://github.com/archana1801/my-portfolio) / [Live Site](https://archana1801.github.io/my-portfolio/) |
 | **Namaste Overseas** | A premium, highly interactive web application built for a custom plush toy manufacturer. | `React` `Vite` `JavaScript` `CSS` | [Repository](https://github.com/archana1801/plush_toy_website) |
-| **EximHub** | Export-import management dashboard and documentation tracking system. | `Java` `Spring Boot` `React` | [Repository](https://github.com/archana1801/EximHub) |
-| **Food Recipe App** | Full stack recipe indexing, dietary filtering, and planning application. | `Node.js` `React` `MongoDB` | [Repository](https://github.com/archana1801/Food-Recipe-App) |
+| **DermaVision AI** | Deep learning CNN skin disease classification system with Grad-CAM visualization and Flask. | `Python` `TensorFlow` `OpenCV` `Flask` | [Repository](https://github.com/archana1801) |
 | **Java DSA** | A structured repository mapping out daily DSA problems and solution patterns. | `Java` | [Repository](https://github.com/archana1801/Java-DSA) |
 
 ---
